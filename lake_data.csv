@@ -1,0 +1,2945 @@
+,,,,,,,,,,SIM 1,SIM 1,SIM 2,SIM 2,,
+Roll No.,Names,Location Name,Coordinates,Mobile Company,Model id Number,Network Provider(SIM1),Network Provider(SIM2),Processor,RAM,dB Level,asu,db Level,asu,Uplink Frequency,Downlink Frequency
+1,Aman Sharma,College Gate,29.11'2''N / 79.44'15''E,Samsung,SM405F,AIRTEL,N/A,OCTA CORE MAX 2.32 GHz,6GB,-84,56,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,Samsung,,,,,,-85,55,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,Samsung,,,,,,-88,52,,,7700kbps,2600kbps
+,,Tikonia,29.21'2''N / 79.13'18''E,Samsung,,,,,,-89,51,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,Samsung,,,,,,-98,42,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,Samsung,,,,,,-98,42,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,Samsung,,,,,,-95,45,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,Samsung,,,,,,-94,46,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,Samsung,,,,,,-92,48,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,Samsung,,,,,,-84,56,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,Samsung,,,,,,-95,45,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,Samsung,,,,,,-94,46,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,Samsung,,,,,,-97,43,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,Samsung,,,,,,-88,52,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,Samsung,,,,,,-86,54,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,Samsung,,,,,,-87,53,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,Samsung,,,,,,-91,49,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,Samsung,,,,,,-92,48,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,Samsung,,,,,,-99,41,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,Samsung,,,,,,-110,30,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,Samsung,,,,,,-108,32,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,Samsung,,,,,,-107,33,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,Samsung,,,,,,-103,37,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,Samsung,,,,,,-104,36,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,Samsung,,,,,,-94,46,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,Samsung,,,,,,-84,56,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,Samsung,,,,,,-89,51,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,Samsung,,,,,,-92,48,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,Samsung,,,,,,-99,41,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+2,Anurag Singh Rawat,College Gate,29.11'2''N / 79.44'15''E,Redmi,M2003J6B1,AIRTEL,N/A,OCTA CORE MAX 2.32 GHz,6GB,-91,,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,Redmi,,,,,,-93,44,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,Redmi,,,,,,-82,53,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,Redmi,,,,,,-107,32,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,Redmi,,,,,,-87,40,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,Redmi,,,,,,-97,31,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,Redmi,,,,,,-101,34,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,Redmi,,,,,,-97,51,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,Redmi,,,,,,-110,52,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,Redmi,,,,,,-101,54,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,Redmi,,,,,,-102,42,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,Redmi,,,,,,-104,48,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,Redmi,,,,,,-81,32,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,Redmi,,,,,,-108,47,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,Redmi,,,,,,-107,44,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,Redmi,,,,,,-106,40,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,Redmi,,,,,,-87,53,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,Redmi,,,,,,-98,59,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,Redmi,,,,,,-110,58,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,Redmi,,,,,,-100,34,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,Redmi,,,,,,-99,32,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,Redmi,,,,,,-100,56,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,Redmi,,,,,,-91,44,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,Redmi,,,,,,-103,41,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,Redmi,,,,,,-92,46,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,Redmi,,,,,,-109,55,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,Redmi,,,,,,-92,56,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,Redmi,,,,,,-96,45,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,Redmi,,,,,,-93,57,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+3,Anushka Joshi,College Gate,29.11'2''N / 79.44'15''E,Realme6Pro,RMX2061,JIO,N/A,Qualcomm Snapdragon 720G Octa-core,6GB,-96,51,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-82,47,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-80,33,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-81,38,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-91,53,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-102,52,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-100,34,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-104,47,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-83,58,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-104,31,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-109,45,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-80,30,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-104,34,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-104,53,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-100,60,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-81,31,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-96,39,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-104,46,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-82,36,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-97,36,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-83,39,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-109,57,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-87,53,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-98,54,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-89,59,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-102,33,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-82,56,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-99,42,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-97,50,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+4,Aryam Shrivastava,College Gate,29.11'2''N / 79.44'15''E,Xiaomi,M200J21,AIRTEL,N/A,Qualcomm Snapdragon 720G Octa-core,6 GB,-87,36,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,Xiaomi,,,,,,-90,35,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,Xiaomi,,,,,,-109,53,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,Xiaomi,,,,,,-91,59,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,Xiaomi,,,,,,-97,58,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,Xiaomi,,,,,,-83,32,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,Xiaomi,,,,,,-84,42,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,Xiaomi,,,,,,-105,44,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,Xiaomi,,,,,,-100,35,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,Xiaomi,,,,,,-88,60,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,Xiaomi,,,,,,-95,40,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,Xiaomi,,,,,,-96,50,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,Xiaomi,,,,,,-108,49,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,Xiaomi,,,,,,-83,31,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,Xiaomi,,,,,,-83,35,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,Xiaomi,,,,,,-89,54,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,Xiaomi,,,,,,-107,59,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,Xiaomi,,,,,,-96,52,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,Xiaomi,,,,,,-94,48,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,Xiaomi,,,,,,-90,56,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,Xiaomi,,,,,,-103,60,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,Xiaomi,,,,,,-81,56,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,Xiaomi,,,,,,-109,39,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,Xiaomi,,,,,,-90,50,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,Xiaomi,,,,,,-80,48,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,Xiaomi,,,,,,-103,43,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,Xiaomi,,,,,,-90,53,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,Xiaomi,,,,,,-101,57,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,Xiaomi,,,,,,-85,59,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+5,Aryan Raj,College Gate,29.11'2''N / 79.44'15''E,Iqoo,Z3 5G (2011),JIO,N/A,Snapdragon 768G Octa Core,6 GB,-89,30,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-103,52,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-103,48,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-105,40,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-86,33,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-108,51,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-91,60,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-97,52,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-96,44,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-110,58,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-88,50,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-110,53,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-105,52,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-110,40,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-96,57,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-108,34,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-97,55,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-95,58,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-99,35,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-88,34,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-87,58,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-106,46,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-104,48,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-98,34,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-89,41,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-98,52,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-97,55,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-83,42,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-107,52,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+6,AYUSH BHAGAT,College Gate,29.11'2''N / 79.44'15''E,REALME,RMX3370,JIO,AIRTEL,Qualcomm Snapdragon 870 Octa-core,8 GB,-80,47,-91,60,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-86,46,-109,50,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-104,44,-92,41,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-82,47,-90,41,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-105,49,-101,31,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-85,38,-85,43,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-90,56,-102,30,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-96,58,-95,43,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-101,48,-93,31,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-84,31,-103,49,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-100,45,-84,41,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-87,37,-87,34,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-105,40,-84,55,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-107,43,-97,42,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-87,35,-89,58,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-80,46,-97,49,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-108,41,-91,36,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-100,34,-102,53,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-107,47,-110,45,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-102,45,-106,58,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-85,45,-82,49,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-86,47,-90,47,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-93,36,-94,60,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-86,53,-104,34,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-83,44,-100,38,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-82,58,-96,51,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-84,44,-105,55,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-97,48,-110,51,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-96,44,-99,45,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+7,Chinmay Pathak,College Gate,29.11'2''N / 79.44'15''E,Redme,M2003J15S1,JIO,N/A,OCTA-CORE,6 GB,-107,38,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-98,58,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-87,35,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-90,32,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-93,54,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-100,60,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-103,57,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-99,37,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-100,39,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-110,55,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-105,34,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-107,46,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-83,34,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-101,56,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-81,32,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-88,55,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-100,46,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-97,41,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-101,44,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-88,45,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-86,50,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-108,45,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-86,35,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-84,43,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-83,49,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-108,32,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-91,48,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-100,56,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-99,48,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+8,DARSHITA TRIPATHI,College Gate,29.11'2''N / 79.44'15''E,Motorola,MOTO G82 5G,JIO,N/A,OCTA-CORE SNAP DRAGON,6 GB,-103,53,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-108,36,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-104,36,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-92,41,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-95,34,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-87,41,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-102,42,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-97,39,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-85,47,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-92,41,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-101,60,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-91,45,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-110,31,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-100,47,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-96,48,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-103,55,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-82,33,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-96,59,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-86,40,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-87,33,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-92,43,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-82,37,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-108,54,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-100,36,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-107,38,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-101,47,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-100,43,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-98,56,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-105,33,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+9,Devansh Gupta,College Gate,29.11'2''N / 79.44'15''E,Oppo,CPH 2239,AIRTEL,N/A,OCTA-CORE HELLO G35,4 GB,-93,56,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-90,39,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-103,30,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-105,60,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-86,57,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-110,43,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-86,54,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-98,57,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-104,34,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-104,58,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-91,58,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-83,50,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-82,38,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-98,42,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-92,32,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-95,39,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-103,48,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-89,58,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-90,53,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-90,39,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-81,35,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-87,32,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-82,49,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-87,39,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-89,49,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-88,37,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-91,44,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-88,44,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-95,46,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+10,Dhruv Pande,College Gate,29.11'2''N / 79.44'15''E,Redmi,ME 17,AIRTEL,N/A,OCTA-CORE MAX,3 GB,-86,38,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-97,34,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-80,47,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-86,43,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-93,42,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-83,44,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-106,48,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-88,33,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-99,52,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-96,40,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-99,57,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-84,45,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-83,53,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-87,33,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-97,55,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-83,35,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-103,31,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-96,32,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-82,37,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-97,54,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-106,35,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-91,58,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-109,59,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-97,38,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-88,51,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-95,60,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-93,54,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-106,41,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-95,32,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+11,Garima Jalal,College Gate,29.11'2''N / 79.44'15''E,Samsung,SM M127 G/DS,JIO ,BSNL,OCTA-CORE MAX,4 GB,-86,31,-98,59,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-102,35,-84,53,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-98,32,-100,52,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-99,52,-91,40,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-102,53,-95,47,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-96,42,-99,31,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-107,31,-90,50,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-98,39,-100,45,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-93,35,-97,34,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-85,58,-103,49,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-87,49,-87,50,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-97,55,-84,42,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-104,45,-100,44,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-87,50,-109,49,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-94,49,-99,49,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-92,52,-106,31,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-90,55,-88,54,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-96,37,-99,41,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-98,54,-101,31,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-93,34,-105,44,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-108,45,-105,45,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-81,35,-97,42,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-108,33,-104,50,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-91,41,-82,38,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-84,49,-81,57,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-103,50,-81,53,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-82,31,-100,58,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-81,52,-83,57,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-81,54,-98,45,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+12,Harshit Joshi,College Gate,29.11'2''N / 79.44'15''E,Samsung,SM M127 G/DS,AIRTEL,JIO,OCTA-CORE,8 GB,-101,56,-90,50,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,Samsung,,,,,,-101,50,-104,53,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,Samsung,,,,,,-83,49,-98,40,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,Samsung,,,,,,-107,44,-87,49,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,Samsung,,,,,,-93,44,-97,54,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,Samsung,,,,,,-91,51,-85,45,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,Samsung,,,,,,-92,31,-105,53,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,Samsung,,,,,,-110,59,-97,35,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,Samsung,,,,,,-109,42,-106,32,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,Samsung,,,,,,-96,45,-98,55,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,Samsung,,,,,,-83,47,-89,53,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,Samsung,,,,,,-107,35,-92,31,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,Samsung,,,,,,-85,37,-97,42,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,Samsung,,,,,,-103,43,-90,54,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,Samsung,,,,,,-108,44,-89,52,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,Samsung,,,,,,-87,40,-95,49,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,Samsung,,,,,,-82,38,-96,58,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,Samsung,,,,,,-86,51,-90,50,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,Samsung,,,,,,-110,35,-96,49,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,Samsung,,,,,,-80,37,-110,57,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,Samsung,,,,,,-92,60,-93,44,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,Samsung,,,,,,-103,50,-98,46,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,Samsung,,,,,,-102,44,-110,34,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,Samsung,,,,,,-98,33,-96,53,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,Samsung,,,,,,-88,52,-90,56,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,Samsung,,,,,,-110,41,-100,48,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,Samsung,,,,,,-95,56,-93,60,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,Samsung,,,,,,-108,46,-80,37,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,Samsung,,,,,,-86,43,-104,51,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+13,Harshit Pandey,College Gate,29.11'2''N / 79.44'15''E,,SAMSUNG S20-FE 5G,JIO,N/A,OCTA-CORE,6 GB,-109,58,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,Samsung,,,,,,-104,56,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-97,55,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-85,55,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-82,44,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-84,33,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-81,39,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-90,37,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-84,40,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-103,44,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-90,42,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-96,39,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-81,37,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-99,47,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-85,55,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-107,52,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-94,44,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-87,46,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-93,45,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-80,57,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-96,42,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-95,51,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-87,30,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-104,30,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-106,53,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-85,48,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-104,30,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-90,55,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-110,49,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+14,Harshit Roy,College Gate,29.11'2''N / 79.44'15''E,Redmi,M1906G71,JIO,N/A,HELIO-G90T,6 GB,-95,38,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-101,47,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-80,50,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-82,46,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-84,51,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-80,48,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-105,31,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-90,58,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-88,30,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-98,52,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-82,41,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-89,56,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-104,42,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-89,42,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-100,53,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-98,38,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-93,33,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-92,39,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-82,49,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-86,57,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-95,35,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-94,38,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-94,46,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-93,43,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-90,38,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-104,47,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-87,43,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-81,54,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-96,53,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+,Harshwardhan Pratap Singh,College Gate,29.11'2''N / 79.44'15''E,Motorola,XT2231-2,AIRTEL,N/A,MEDITEK HELIO G-40,4 GB,-81,34,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-97,46,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-110,54,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-106,56,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-90,34,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-82,30,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-88,39,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-83,54,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-93,46,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-94,45,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-97,41,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-109,50,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-102,57,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-102,45,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-97,43,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-101,45,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-85,52,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-97,45,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-101,37,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-92,47,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-94,43,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-83,53,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-107,47,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-108,57,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-92,54,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-96,53,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-91,47,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-109,52,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-96,44,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+16,Himanshu Bora,College Gate,29.11'2''N / 79.44'15''E,Redmi,M2101K7B1,JIO,N/A,MTK G95,6 GB,-93,32,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-98,42,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-91,33,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-83,59,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-95,59,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-84,41,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-96,59,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-80,47,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-104,54,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-94,40,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-94,58,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-91,42,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-108,33,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-91,48,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-80,58,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-83,45,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-81,36,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-105,33,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-81,54,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-88,58,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-94,50,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-110,43,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-100,46,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-89,44,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-107,55,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-92,51,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-107,60,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-92,43,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-80,36,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+17,Hridyashish Jina,College Gate,29.11'2''N / 79.44'15''E,Samsung,S20FE 5G,JIO,N/A,OCTA-CORE,6 GB,-87,41,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-101,35,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-83,57,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-87,47,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-107,58,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-102,30,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-92,43,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-104,48,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-88,36,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-98,43,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-92,41,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-98,49,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-108,45,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-96,35,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-99,47,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-84,46,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-103,42,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-102,49,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-80,36,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-110,58,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-80,41,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-86,34,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-92,55,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-81,53,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-81,43,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-103,49,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-102,48,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-84,47,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-98,43,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+,Janu,College Gate,29.11'2''N / 79.44'15''E,Vivo,VIVO 1725,JIO,N/A,OCTA-CORE,4 GB,-94,55,N/A,N/A,7700kbps,2600kbps
+18,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-92,47,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-82,59,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-91,44,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-82,51,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-109,58,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-86,40,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-104,32,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-89,51,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-83,51,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-82,44,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-103,59,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-89,45,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-110,58,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-93,56,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-85,57,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-89,36,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-91,59,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-92,37,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-86,30,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-100,37,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-91,57,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-100,51,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-84,36,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-102,40,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-108,40,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-102,33,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-108,32,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-83,41,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+,,College Gate,29.11'2''N / 79.44'15''E,Realme,RMX3241,JIO,AIRTEL,Dimensity 700 Octa Core,4 GB,-80,48,-99,44,7700kbps,2600kbps
+19,Kabir Singh,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-102,58,-93,40,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-107,59,-103,56,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-83,60,-99,60,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-87,36,-87,36,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-97,47,-87,55,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-80,50,-83,31,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-100,30,-81,31,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-100,58,-83,50,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-90,31,-101,54,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-109,52,-96,44,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-82,41,-108,45,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-106,32,-82,52,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-105,41,-82,38,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-104,51,-85,55,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-92,57,-104,57,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-82,52,-91,47,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-87,55,-80,37,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-105,33,-109,36,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-85,46,-110,35,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-81,54,-94,54,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-106,39,-83,37,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-89,48,-95,35,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-88,36,-109,42,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-100,51,-90,30,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-108,55,-93,43,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-102,31,-104,45,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-104,54,-82,35,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-98,55,-85,43,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+,Kajal Bohra,College Gate,29.11'2''N / 79.44'15''E,Oppo,CPH1933,JIO,N/A,Qualcomm Snapdragon 665,4 GB,-83,49,N/A,N/A,7700kbps,2600kbps
+20,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-96,39,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-95,39,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-101,60,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-102,37,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-89,50,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-81,40,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-92,40,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-101,56,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-99,34,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-107,50,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-101,38,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-99,39,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-105,35,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-107,59,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-108,50,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-110,44,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-99,35,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-81,51,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-95,52,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-82,34,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-93,30,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-95,31,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-86,44,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-103,40,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-87,31,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-102,57,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-83,51,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-108,30,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+21,Kartik Joshi,College Gate,29.11'2''N / 79.44'15''E,REALME,RMX2001,JIO,N/A,HELIO G90T,8 GB,-100,37,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-85,56,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-97,55,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-103,52,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-93,51,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-110,39,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-106,36,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-106,36,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-94,50,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-109,51,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-81,51,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-104,54,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-91,51,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-100,50,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-95,47,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-81,46,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-110,51,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-101,32,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-101,51,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-110,44,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-87,45,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-86,54,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-82,44,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-93,55,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-107,39,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-80,47,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-81,35,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-97,47,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-86,53,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+,Kashvi Joshi,College Gate,29.11'2''N / 79.44'15''E,,SM-A047F/DS,AIRTEL,N/A,2GHz OCTA-CORE,6 GB,-98,51,N/A,N/A,7700kbps,2600kbps
+22,,Petrol Pump,29.21'22''N / 79.33'25''E,Samsung,,,,,,-84,32,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-97,48,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-84,38,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-110,48,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-101,55,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-80,53,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-98,50,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-100,46,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-96,44,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-100,41,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-106,41,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-97,46,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-86,37,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-98,59,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-103,34,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-105,44,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-91,30,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-89,31,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-104,50,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-104,34,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-108,59,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-100,31,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-98,35,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-88,55,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-80,43,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-98,59,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-92,55,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-109,60,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+23,KRITIK SRIVASTAVA,College Gate,29.11'2''N / 79.44'15''E,MOTOROLA,ONE FUSION-PLUS,JIO,N/A,SNAPDRAGON 730,6 GB,-95,50,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-96,33,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-89,51,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-110,42,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-110,44,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-109,57,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-87,50,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-107,48,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-83,60,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-97,42,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-102,46,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-85,59,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-92,37,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-110,55,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-100,40,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-86,54,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-100,44,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-82,40,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-107,54,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-96,33,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-104,56,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-100,36,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-96,52,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-88,50,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-87,37,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-101,54,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-90,33,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-95,60,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-105,38,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+24,Kushagra Lal,College Gate,29.11'2''N / 79.44'15''E,Samsung,S20 FE 5G,JIO,N/A,OCTA-CORE,6 GB,-102,47,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-108,53,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-92,44,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-80,44,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-81,37,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-97,56,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-90,50,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-90,37,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-95,32,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-109,49,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-108,55,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-98,33,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-95,44,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-105,54,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-84,46,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-102,34,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-86,53,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-89,43,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-103,31,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-89,51,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-109,30,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-110,56,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-104,44,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-87,58,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-108,46,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-102,39,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-105,45,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-107,42,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-109,47,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+,Lokesh Joshi,College Gate,29.11'2''N / 79.44'15''E,,M2006C3MII,VI,AIRTEL,OCTA-CORE MAX 2.30 GHZ,4 GB,-92,56,-85,48,7700kbps,2600kbps
+25,,Petrol Pump,29.21'22''N / 79.33'25''E,Redmi,,,,,,-101,59,-102,51,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-88,34,-80,41,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-106,43,-90,53,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-82,54,-99,46,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-85,34,-89,45,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-105,45,-98,33,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-89,51,-87,31,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-108,37,-86,54,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-80,57,-104,42,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-90,52,-110,34,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-106,47,-99,41,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-107,49,-83,41,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-81,58,-97,39,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-106,50,-89,59,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-86,46,-85,32,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-98,32,-93,43,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-81,42,-99,39,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-100,54,-106,56,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-104,32,-108,52,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-94,39,-83,33,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-85,58,-95,39,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-92,50,-87,38,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-95,55,-105,49,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-98,44,-99,42,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-90,57,-97,30,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-81,53,-101,33,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-85,52,-83,46,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-104,59,-92,46,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+26,Love Kholiya,College Gate,29.11'2''N / 79.44'15''E,Redmi,MEI7S,AIRTEL,N/A,OCTA-CORE MAX,4GB,-88,57,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-102,57,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-103,59,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-91,59,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-110,49,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-87,42,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-94,45,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-93,52,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-92,52,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-100,60,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-95,51,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-81,55,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-84,51,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-81,38,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-100,30,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-92,54,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-101,34,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-106,51,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-93,32,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-81,36,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-86,46,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-107,36,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-108,44,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-90,35,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-103,33,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-96,43,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-90,59,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-94,52,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-108,51,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+27,Mahek Singh,College Gate,29.11'2''N / 79.44'15''E,Samsung,SM-M536B/DS,AIRTEL,N/A,RFCT42G2W0E,12 GB,-99,45,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-82,55,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-84,50,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-80,55,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-87,46,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-82,53,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-99,30,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-89,49,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-109,45,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-108,48,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-83,50,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-96,46,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-106,52,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-95,53,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-92,50,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-109,51,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-91,45,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-110,54,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-100,50,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-110,43,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-101,39,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-88,55,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-88,52,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-101,40,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-90,48,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-96,45,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-96,51,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-82,48,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-99,49,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+28,Manish Kandpal,College Gate,29.11'2''N / 79.44'15''E,LAVA,LXX504,AIRTEL,N/A,MediaTek Dimensity 7050,8 GB,-87,57,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-86,34,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-110,55,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-97,31,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-84,58,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-93,58,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-110,51,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-83,38,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-97,45,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-87,52,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-95,55,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-103,59,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-109,32,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-110,47,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-104,35,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-89,39,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-83,37,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-107,52,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-103,59,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-87,30,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-83,52,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-88,47,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-93,45,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-100,39,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-84,57,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-103,37,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-80,38,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-87,60,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-109,51,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+29,Mansi Rajwar,College Gate,29.11'2''N / 79.44'15''E,Redmi Note8,M1908C3JI,VI,N/A,OCTA-CORE MAX 2.01GHz,6 GB,-96,46,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-95,49,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-101,39,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-95,41,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-86,52,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-110,46,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-82,30,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-91,55,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-100,58,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-101,39,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-84,38,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-86,33,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-85,44,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-88,30,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-84,55,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-82,49,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-105,44,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-109,30,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-101,53,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-104,55,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-102,40,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-94,55,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-98,52,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-110,40,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-100,53,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-88,37,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-83,54,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-92,60,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-83,44,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+30,Mudit Mayank Arora,College Gate,29.11'2''N / 79.44'15''E,Realme 6,RMX2001,AIRTEL,N/A,OCTA-CORE,4 GB,-83,58,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-110,37,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-100,52,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-105,36,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-81,39,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-89,33,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-101,60,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-108,39,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-83,31,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-96,46,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-89,55,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-90,46,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-105,40,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-86,56,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-98,38,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-102,39,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-89,53,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-88,34,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-97,41,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-92,44,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-100,55,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-85,34,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-108,52,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-83,35,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-97,55,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-103,56,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-104,54,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-82,30,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-89,35,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+31,Naman Khulbe,College Gate,29.11'2''N / 79.44'15''E,RealMe,RMX2151,AIRTEL,N/A,HELIOG95,8 GB,-85,45,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-108,57,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-88,39,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-88,33,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-86,39,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-101,32,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-105,39,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-103,54,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-97,59,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-108,40,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-91,59,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-107,36,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-89,39,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-80,34,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-104,35,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-83,35,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-98,33,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-84,34,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-93,32,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-108,50,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-97,31,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-91,37,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-87,44,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-81,42,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-96,51,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-93,46,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-81,31,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-106,33,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-89,58,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+32,Naman Pant,College Gate,29.11'2''N / 79.44'15''E,Realme 6,RMX2001,JIO,N/A,HELIOG90T,8 GB,-89,30,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-109,37,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-104,33,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-84,54,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-84,39,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-90,60,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-99,34,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-91,38,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-101,35,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-95,31,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-95,39,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-103,38,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-108,42,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-110,45,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-106,53,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-103,34,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-103,37,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-109,40,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-102,55,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-92,32,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-103,35,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-100,33,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-100,32,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-107,52,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-99,51,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-86,44,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-93,54,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-110,55,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-89,56,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+33,Nikita Belwal,College Gate,29.11'2''N / 79.44'15''E,Oppo reno 3 pro,CPH2035,VI,N/A ,OCTA-CORE,8 GB,-94,43,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-108,47,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-89,53,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-83,33,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-95,45,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-87,45,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-90,37,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-93,41,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-98,56,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-86,42,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-96,56,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-104,35,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-105,55,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-96,53,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-108,30,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-97,44,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-107,38,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-84,59,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-90,59,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-108,59,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-81,52,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-109,39,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-95,34,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-100,60,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-83,54,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-102,36,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-108,41,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-106,43,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-91,35,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+34,Nishita Joshi,College Gate,29.11'2''N / 79.44'15''E,Samsung,SM_M315F/DS,JIO,N/A,SAMSUNG EXYNOS 9611,6 GB,-92,60,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-109,49,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-91,32,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-96,32,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-98,54,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-110,30,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-88,56,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-108,37,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-80,37,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-95,32,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-92,36,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-83,34,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-98,30,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-96,42,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-91,57,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-101,42,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-97,32,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-88,43,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-100,36,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-98,35,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-91,44,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-95,36,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-83,50,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-105,35,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-98,36,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-104,54,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-84,40,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-107,41,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-96,49,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+35,Om Mathpal,College Gate,29.11'2''N / 79.44'15''E,Motorola,MOTOG825G,JIO,N/A,OCTA-CORE SNAPDRAGON,6 GB,-101,57,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-105,42,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-105,51,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-109,35,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-90,54,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-84,38,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-92,60,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-93,38,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-99,40,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-94,31,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-106,38,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-82,40,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-104,44,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-104,60,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-82,41,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-80,53,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-88,33,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-83,37,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-104,37,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-110,55,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-106,39,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-87,60,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-101,52,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-89,30,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-87,36,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-98,38,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-94,36,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-85,34,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-99,42,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+36,,College Gate,29.11'2''N / 79.44'15''E,Samsung,SM-M115F/DS,AIRTEL,N/A,QUALCOMM SNAPDRAGON 450,4 GB,-84,30,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-90,30,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-87,48,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-107,41,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-108,53,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-100,38,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-107,33,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-103,35,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-83,31,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-84,51,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-84,47,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-92,43,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-101,49,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-106,41,,,7700kbps,2600kbps
+,Pankaj Singh,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-86,39,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-98,42,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-104,41,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-97,39,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-80,45,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-100,50,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-86,36,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-110,38,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-94,56,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-88,46,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-98,37,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-102,50,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-97,50,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-90,32,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-110,54,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+37,Pawan Joshi,College Gate,29.11'2''N / 79.44'15''E,Samsung,SM-M215F/DS,JIO,AIRTEL,SAMSUNG EXYNOS 611,4 GB,-97,43,-87,38,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-97,44,-102,44,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-103,56,-109,33,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-88,35,-100,57,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-100,42,-83,46,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-85,55,-104,54,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-96,58,-80,49,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-93,40,-100,58,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-93,39,-104,50,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-93,45,-81,39,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-92,38,-84,38,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-102,42,-84,39,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-106,53,-94,51,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-89,59,-92,36,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-80,46,-99,31,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-108,43,-97,37,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-92,36,-108,56,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-85,43,-107,37,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-94,51,-106,32,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-102,48,-87,44,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-105,30,-102,56,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-105,48,-89,54,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-99,56,-99,51,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-95,59,-95,53,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-95,35,-96,58,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-103,31,-102,30,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-97,41,-90,56,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-107,60,-88,50,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-84,32,-93,55,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+38,Piyush Kumar,College Gate,29.11'2''N / 79.44'15''E,oppo,CPH1803,AIRTEL,N/A,QUALCOMM SDM450 OCTA-CORE,2 GB,-105,36,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-102,37,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-106,41,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-107,37,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-107,45,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-100,50,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-95,44,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-88,45,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-96,47,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-96,40,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-85,60,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-109,56,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-106,58,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-82,33,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-89,35,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-93,37,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-95,58,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-91,33,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-85,59,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-110,31,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-106,34,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-84,40,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-91,36,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-101,54,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-84,52,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-104,53,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-101,33,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-97,33,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-94,35,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+39,Prakriti,College Gate,29.11'2''N / 79.44'15''E,RealMe,RMX3430,JIO,BSNL,HELIO G85,4 GB,-87,40,-107,48,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-106,58,-109,35,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-109,44,-88,57,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-87,32,-110,44,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-101,58,-81,43,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-100,30,-89,47,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-92,48,-100,51,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-97,53,-101,38,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-82,46,-95,56,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-93,39,-107,50,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-97,46,-90,60,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-109,49,-104,54,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-92,46,-94,56,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-81,60,-81,33,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-102,53,-100,50,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-102,44,-98,43,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-89,50,-81,49,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-86,36,-108,32,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-82,52,-84,40,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-93,38,-105,47,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-101,54,-97,32,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-86,51,-95,40,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-87,38,-83,54,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-106,48,-86,42,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-95,31,-83,38,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-88,42,-87,47,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-99,59,-88,58,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-86,34,-107,50,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-93,44,-96,48,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+40,Prashant Kumar Verma,College Gate,29.11'2''N / 79.44'15''E,Redmi,M2101K6P,AIRTEL,VI,OCTA-CORE MAX 2.3 GHz,8 GB,-98,36,-97,47,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-86,55,-84,30,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-99,46,-95,31,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-93,58,-102,32,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-90,48,-105,52,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-110,34,-94,44,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-100,59,-97,48,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-81,59,-82,56,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-101,53,-94,37,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-95,34,-95,43,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-110,52,-87,54,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-110,43,-99,52,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-80,31,-90,53,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-108,40,-97,59,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-93,32,-86,50,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-109,52,-102,42,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-106,53,-94,58,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-100,56,-110,48,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-95,55,-86,50,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-96,47,-86,38,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-103,55,-88,44,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-108,55,-80,50,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-93,34,-85,46,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-100,30,-98,57,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-90,58,-94,31,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-107,42,-109,41,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-108,31,-99,39,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-106,33,-100,55,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-106,52,-110,41,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+41,Prasoon Lohani,College Gate,29.11'2''N / 79.44'15''E,RealMe,RMX3571,JIO,N/A,DIMENSITY810 OCTA-CORE,8 GB,-97,32,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-89,57,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-107,30,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-99,56,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-106,53,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-88,52,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-109,52,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-102,45,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-106,38,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-86,44,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-99,55,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-102,38,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-99,36,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-88,55,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-109,33,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-94,33,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-109,45,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-96,37,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-100,52,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-109,39,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-109,46,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-104,57,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-107,32,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-85,56,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-94,45,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-92,50,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-84,31,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-104,38,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-80,57,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+42,Prateek Harbola,College Gate,29.11'2''N / 79.44'15''E,RealMe,RMX3151,JIO,N/A,HELIO G96,6 GB,-104,35,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-84,48,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-108,36,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-95,32,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-105,58,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-103,42,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-84,31,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-92,60,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-103,56,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-93,36,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-86,36,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-99,54,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-99,60,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-90,48,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-95,58,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-99,58,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-105,51,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-84,58,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-95,43,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-102,55,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-98,44,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-107,47,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-109,31,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-92,42,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-85,52,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-95,43,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-101,42,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-89,34,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-87,58,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+43,Priya Tiwari,College Gate,29.11'2''N / 79.44'15''E,One Plus,EB2101,AIRTEL,N/A,Qualcomm Snapdragon 750G Octa-Core,8 GB,-93,45,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-85,55,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-90,50,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-85,55,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-94,46,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-89,53,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-110,30,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-91,49,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-95,45,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-92,48,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-90,50,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-94,46,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-88,52,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-87,53,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-90,50,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-89,51,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-95,45,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-86,54,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-90,50,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-97,43,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-101,39,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-85,55,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-88,52,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-100,40,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-92,48,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-95,45,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-89,51,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-91,48,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-92,49,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+44,RAVI PADIYAR,College Gate,29.11'2''N / 79.44'15''E,REDMI,M1906G71,JIO,N/A,MEDIATECH HELIU G90T,6 GB,-107,34,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-101,30,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-95,33,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-109,55,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-93,50,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-84,60,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-81,54,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-97,48,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-90,57,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-97,41,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-91,36,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-98,32,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-91,47,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-108,37,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-110,43,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-96,57,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-80,44,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-96,46,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-106,42,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-101,55,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-94,50,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-97,49,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-96,30,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-87,56,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-84,60,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-110,47,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-95,34,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-106,30,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-103,36,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+45,Reeta Upreti,College Gate,29.11'2''N / 79.44'15''E,Realme 9 Pro,RMX3471,JIO ,AIRTEL,SNAPDRAGON695 5G OCTA-CORE,6 GB,-100,48,-97,56,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-94,42,-94,33,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-96,58,-97,53,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-95,60,-105,40,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-86,30,-83,36,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-92,34,-93,57,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-93,40,-85,36,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-106,36,-100,40,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-108,31,-97,60,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-82,47,-103,32,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-102,38,-96,51,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-102,33,-81,30,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-99,57,-108,47,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-101,32,-110,30,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-99,54,-95,42,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-86,40,-91,42,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-82,50,-103,49,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-85,47,-108,60,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-100,34,-86,30,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-103,39,-105,42,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-97,41,-82,31,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-82,54,-92,34,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-105,50,-91,51,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-99,31,-88,57,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-92,49,-102,34,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-97,57,-94,59,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-99,49,-80,49,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-88,31,-87,55,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-81,31,-87,55,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+46,Reeti Verma,College Gate,29.11'2''N / 79.44'15''E,,CPH2487,JIO,N/A,SNAP DRAGON 8+ GEN 1 MOBILE PLATFORM,8 GB,-92,36,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,Oneplus 11r,,,,,,-94,60,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-81,44,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-84,33,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-99,57,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-95,49,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-110,39,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-107,48,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-106,37,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-81,58,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-80,43,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-106,50,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-83,55,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-106,33,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-90,33,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-101,38,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-81,59,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-94,50,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-83,41,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-110,50,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-96,40,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-81,36,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-95,39,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-99,35,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-107,48,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-102,53,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-84,33,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-105,30,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-90,35,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+47,ROHAN BALGOTRA,College Gate,29.11'2''N / 79.44'15''E,POCO,M2003J6CI,JIO,N/A,OCTA CORE MAX,6 GB,-107,55,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-99,32,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-101,39,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-99,59,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-98,47,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-89,56,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-109,42,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-81,31,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-98,39,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-108,51,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-106,41,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-82,48,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-106,37,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-109,40,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-94,50,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-81,35,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-105,45,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-103,53,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-97,30,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-92,35,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-101,37,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-107,59,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-91,42,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-80,36,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-96,48,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-98,34,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-106,38,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-92,51,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-85,42,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+48,SAURABH BANI,College Gate,29.11'2''N / 79.44'15''E,REDMI,M1908CGI,JIO,N/A,SNAP DRAGON 665,4 GB,-106,34,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-91,54,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-100,42,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-110,54,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-101,40,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-81,30,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-107,41,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-97,49,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-81,38,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-107,59,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-92,41,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-83,51,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-91,34,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-82,39,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-81,35,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-83,50,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-110,59,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-86,45,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-88,44,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-110,50,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-91,35,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-100,33,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-102,35,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-90,38,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-102,53,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-108,30,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-80,50,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-104,47,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-87,33,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+49,Shraddha Tripathi,College Gate,29.11'2''N / 79.44'15''E,Redmi,M2003J6B11,AIRTEL,N/A,OCTA CORE MAX 2.32GHz,6 GB,-94,40,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-81,40,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-109,42,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-110,41,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-106,34,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-91,46,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-80,35,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-97,54,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-93,49,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-102,55,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-102,38,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-87,37,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-89,36,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-85,55,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-81,57,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-95,40,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-82,48,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-108,58,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-95,32,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-83,47,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-106,32,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-95,56,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-80,51,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-97,59,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-99,35,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-102,33,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-89,46,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-92,50,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-108,46,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+50,SHUBHANGI MISHRA,College Gate,29.11'2''N / 79.44'15''E,oppo,CPH2015,VI,N/A,OCTA COREMAX,6 GB,-97,52,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-81,59,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-91,41,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-99,32,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-104,38,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-96,52,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-89,48,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-98,39,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-84,39,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-109,55,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-101,35,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-101,47,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-88,56,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-82,34,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-83,36,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-104,40,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-107,54,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-94,40,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-84,33,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-104,34,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-87,38,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-108,38,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-102,59,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-95,56,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-106,43,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-108,40,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-98,54,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-93,58,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-93,31,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+51,SHUBHNESH KASHYAP,College Gate,29.11'2''N / 79.44'15''E,SAMSUNG,SMA107/DS,JIO,N/A,XNOS 7884,4 GB,-94,50,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-88,33,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-85,39,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-85,44,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-89,42,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-99,51,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-88,60,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-104,42,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-104,53,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-109,35,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-100,47,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-105,32,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-94,58,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-98,35,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-99,60,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-80,41,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-109,45,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-104,55,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-85,32,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-88,42,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-104,32,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-84,35,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-108,44,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-90,53,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-86,51,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-82,32,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-98,39,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-109,55,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-87,42,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+52,Siddhant Bisht,College Gate,29.11'2''N / 79.44'15''E,Motorola,XT2203-1,AIRTEL,JIO,QUALCOMM SNAPDRAFON 778GS,6GB,-88,35,-98,30,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-89,37,-83,38,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-92,37,-89,36,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-92,57,-93,41,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-84,30,-93,49,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-84,40,-88,45,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-104,52,-106,49,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-102,38,-85,55,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-102,40,-108,42,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-89,58,-88,39,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-84,55,-91,48,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-95,60,-105,57,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-104,54,-107,32,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-87,32,-95,49,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-106,44,-102,39,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-92,33,-81,47,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-81,50,-95,40,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-100,52,-90,38,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-96,36,-83,30,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-108,31,-108,56,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-108,41,-88,48,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-94,57,-87,35,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-81,44,-93,51,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-107,38,-103,54,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-99,44,-88,49,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-94,56,-90,33,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-84,47,-96,44,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-108,35,-106,52,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-103,53,-84,32,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+53,SMRITI ADHIKARI,College Gate,29.11'2''N / 79.44'15''E,vivo,VIVO 9035,AIRTEL,N/A,2.3GHz SNAPDRAGON 665 OCTA-CORE,8 GB,-95,60,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-98,55,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-108,48,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-109,59,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-90,59,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-84,36,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-89,35,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-101,57,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-80,55,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-93,58,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-107,49,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-109,59,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-84,42,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-80,41,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-97,59,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-88,45,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-92,40,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-83,38,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-87,40,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-106,47,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-110,41,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-110,45,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-83,57,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-102,39,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-110,48,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-100,45,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-109,58,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-87,51,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-110,43,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+54,Sneha Joshi,College Gate,29.11'2''N / 79.44'15''E,OppoA12,CPH2083,JIO,N/A ,OCTA-CORE,4 GB,-99,52,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-109,49,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-104,33,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-98,37,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-95,46,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-100,42,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-92,57,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-102,57,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-107,40,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-96,37,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-101,60,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-86,41,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-100,44,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-94,50,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-84,42,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-85,46,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-82,59,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-99,50,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-109,33,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-80,56,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-82,59,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-98,42,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-86,41,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-100,44,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-105,44,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-83,59,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-105,49,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-80,39,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-96,33,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+55,Sonam Sharma,College Gate,29.11'2''N / 79.44'15''E,Redmi,M2003J15SI,JIO,N/A,OCTA CORE MAX 2.00 GHz,4 GB,-101,46,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-101,49,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-102,53,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-90,56,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-84,40,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-82,40,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-93,50,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-97,55,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-84,34,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-106,49,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-83,32,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-80,44,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-106,57,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-85,50,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-90,46,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-82,35,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-97,33,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-87,48,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-104,57,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-85,35,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-84,43,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-109,42,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-89,52,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-101,34,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-105,45,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-84,35,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-103,37,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-106,59,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-88,59,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+56,Swati Bisht,College Gate,29.11'2''N / 79.44'15''E,Samsung,S20FE5G,JIO,N/A,OCTA-CORE,6 GB,-110,45,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-101,51,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-102,48,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-83,60,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-94,52,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-108,36,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-93,48,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-108,50,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-109,55,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-93,44,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-81,50,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-89,60,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-81,54,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-105,60,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-85,54,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-98,55,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-103,31,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-91,57,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-108,36,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-83,58,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-80,44,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-104,46,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-84,35,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-87,33,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-109,36,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-102,52,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-91,56,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-104,52,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-109,45,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+57,Tanay Dasila,College Gate,29.11'2''N / 79.44'15''E,Samsung,SM-M127G,IDEA,N/A,OCTA-CORE,6 GB,-107,55,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-106,37,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-80,59,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-101,49,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-93,42,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-99,41,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-89,56,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-95,51,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-104,58,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-85,41,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-109,47,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-99,44,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-98,47,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-86,36,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-80,48,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-84,36,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-96,54,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-90,34,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-92,36,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-93,48,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-92,59,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-81,59,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-86,32,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-87,36,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-93,41,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-98,55,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-100,40,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-84,31,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-86,48,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+58,Tanay Pant,College Gate,29.11'2''N / 79.44'15''E,Samsung,SM-M515F,AIRTEL,N/A,OCTA-CORE,6 GB,-81,44,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-107,36,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-80,36,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-91,42,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-105,49,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-110,51,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-106,60,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-109,52,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-96,38,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-85,59,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-108,55,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-106,35,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-106,31,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-103,53,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-99,40,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-95,30,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-81,36,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-98,42,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-103,43,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-84,40,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-81,30,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-96,48,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-96,55,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-95,34,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-90,51,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-95,60,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-102,42,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-105,50,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-86,30,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+59,Tanuj Tanwal,College Gate,29.11'2''N / 79.44'15''E,Oppo,CPH1937,AIRTEL,N/A,QUALCOMM SNAPDRAGON 665,4 GB,-92,34,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-88,36,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-99,41,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-98,53,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-83,56,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-110,36,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-108,39,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-94,49,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-104,42,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-98,30,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-89,36,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-87,53,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-88,57,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-92,60,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-98,52,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-109,34,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-99,37,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-84,33,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-99,41,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-92,38,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-110,33,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-103,41,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-83,50,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-82,58,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-92,53,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-94,48,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-107,42,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-97,57,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-110,57,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+60,,College Gate,29.11'2''N / 79.44'15''E,Redmi Note 11 Pro,2201116TI,AIRTEL,N/A,HELIO G96,8 GB,-88,50,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-83,49,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-93,48,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-82,42,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-86,41,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-81,37,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-80,59,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-102,39,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-109,46,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-98,36,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-99,54,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-88,53,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-94,58,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-90,41,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-82,35,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-81,47,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-100,37,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-106,34,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-81,32,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-99,35,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-83,33,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-85,56,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-85,60,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-102,45,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-81,39,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-84,43,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-96,45,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-90,32,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-84,47,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+62,Vivek Bhatt,College Gate,29.11'2''N / 79.44'15''E,Real Me 6I,HELIO G90T,JIO,N/A,HELIO G90T,4 GB,-93,48,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-88,31,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-109,54,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-100,54,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-91,56,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-102,45,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-109,32,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-95,48,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-88,46,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-87,45,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-83,37,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-101,51,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-106,52,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-90,51,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-84,38,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-100,36,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-108,34,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-91,49,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-98,34,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-101,41,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-91,50,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-101,40,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-84,44,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-101,49,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-83,33,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-96,38,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-93,36,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-95,37,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-105,34,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+63,Vivek Singh Kaira,College Gate,29.11'2''N / 79.44'15''E,Apple,MGHN3J/A,JIO,N/A,A14 BIONIC CHIP,4 GB,-98,40,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-102,37,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-109,54,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-108,30,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-88,41,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-80,48,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-81,36,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-107,42,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-105,57,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-108,50,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-95,57,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-94,38,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-104,34,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-85,31,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-90,46,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-89,54,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-104,32,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-98,40,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-86,34,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-104,51,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-88,47,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-108,50,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-92,50,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-87,44,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-103,44,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-93,37,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-92,32,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-87,49,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-107,45,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+64,Yagya Kulora,College Gate,29.11'2''N / 79.44'15''E,Samsung,S20FE 5G,JIO,N/A,OCTA-CORE,8 GB,-97,46,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-83,39,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-101,55,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-89,60,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-109,34,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-105,43,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-89,58,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-101,50,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-107,58,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-85,42,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-93,53,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-98,44,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-88,33,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-83,36,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-80,53,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-97,33,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-85,55,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-93,30,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-100,30,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-86,33,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-85,40,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-83,36,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-84,51,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-97,43,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-83,45,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-100,39,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-90,34,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-98,51,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-96,47,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+65,Yash Bharadwaj,College Gate,29.11'2''N / 79.44'15''E,Apple,MLPF3HN/A,AIRTEL,N/A,BIONIC CHIP,4 GB,-107,42,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-103,46,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-82,46,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-91,59,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-92,43,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-109,46,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-105,38,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-89,47,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-107,48,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-103,52,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-103,59,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-108,31,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-98,46,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-87,42,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-103,51,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-97,43,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-104,44,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-87,51,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-104,51,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-100,48,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-95,38,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-102,49,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-110,41,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-95,40,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-91,33,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-96,32,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-100,51,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-108,38,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-86,39,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+66,Yashank Sharma,College Gate,29.11'2''N / 79.44'15''E,Apple,MLPG3HN/A,AIRTEL,N/A,BIONIC CHIP,4 GB,-87,47,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-85,57,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-102,49,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-105,43,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-106,54,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-86,42,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-82,60,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-81,45,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-88,51,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-108,36,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-94,57,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-80,54,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-92,40,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-109,55,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-107,39,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-84,54,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-109,44,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-88,55,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-89,59,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-103,59,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-102,48,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-101,43,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-81,50,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-95,53,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-106,46,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-101,48,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-99,59,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-104,51,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-91,35,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+1,AMASH ANSARI,College Gate,29.11'2''N / 79.44'15''E,OPPO,CPH 202145,VI,N/A,OCTACORE ,6 GB,-84,37,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-83,41,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-90,38,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-90,37,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-86,40,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-83,59,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-87,60,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-94,38,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-98,31,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-98,35,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-97,60,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-98,46,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-104,59,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-87,46,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-107,50,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-89,35,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-84,53,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-89,47,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-87,31,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-100,37,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-105,33,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-109,56,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-107,54,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-84,35,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-97,39,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-109,56,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-108,39,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-108,42,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-102,42,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+2,DIGVIJAY SHAHI,College Gate,29.11'2''N / 79.44'15''E,SAMSUNG,SM-E236B/DS,JIO,N/A,SNAP DRAGON 750,6 GB,-92,54,N/A,N/A,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-99,33,,,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-87,39,,,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-86,41,,,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-109,51,,,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-109,52,,,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-91,43,,,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-108,34,,,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-81,35,,,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-85,40,,,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-89,53,,,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-100,38,,,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-97,56,,,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-96,48,,,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-109,53,,,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-100,32,,,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-108,56,,,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-85,47,,,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-103,48,,,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-103,49,,,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-101,47,,,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-93,60,,,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-90,42,,,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-102,36,,,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-80,41,,,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-105,44,,,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-86,39,,,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-83,30,,,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-84,43,,,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+3,Nirmal Pandey,College Gate,29.11'2''N / 79.44'15''E,RealmeC21,RMX 3201,JIO,IDEA,OCTA-CORE,4 GB,-84,41,-107,31,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-87,40,-89,42,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-98,35,-95,48,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-85,45,-85,33,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-103,36,-107,39,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-103,31,-88,60,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-99,36,-97,37,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-86,40,-80,38,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-101,30,-108,41,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-80,40,-82,55,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-92,47,-89,54,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-88,51,-92,41,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-85,46,-104,52,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-99,44,-108,39,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-106,36,-96,37,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-89,33,-90,34,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-101,60,-107,55,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-84,47,-99,34,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-93,54,-105,46,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-107,60,-104,45,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-89,44,-96,40,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-80,41,-96,43,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-107,31,-104,40,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-110,51,-89,40,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-84,52,-87,59,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-102,46,-88,53,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-82,50,-94,30,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-97,31,-106,36,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-110,59,-84,30,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+4,PANKAJ JOSHI,College Gate,29.11'2''N / 79.44'15''E,REALME 5I,REM-6012F125,JIO,AIRTEL,SNAP DRAGON 665,4 GB,-103,47,-82,44,7700kbps,2600kbps
+,,Petrol Pump,29.21'22''N / 79.33'25''E,,,,,,,-99,50,-100,44,7700kbps,2600kbps
+,,Block Road,29.11'2''N / 79.33'18''E,,,,,,,-80,51,-110,59,7700kbps,2600kbps
+,,Tikonia ,29.21'2''N / 79.13'18''E,,,,,,,-88,37,-102,56,7700kbps,2600kbps
+,,Police Station,29.21'0''N / 79.33'16''E,,,,,,,-81,45,-86,35,7700kbps,2600kbps
+,,bus Stand,29.20'57''N / 79.33'14''E,,,,,,,-92,40,-108,60,7700kbps,2600kbps
+,,Shahi Heritage,29.21'0''N / 79.33'15''E,,,,,,,-104,41,-107,44,7700kbps,2600kbps
+,,Game Zone,29.20'53''N / 79.33'20''E,,,,,,,-88,42,-102,56,7700kbps,2600kbps
+,,Vetnary Heritage,29.21'0''N / 79.33'34''E,,,,,,,-91,39,-107,31,7700kbps,2600kbps
+,,Lake Paradise,29.20'57''N / 79.33'37''E,,,,,,,-93,31,-92,32,7700kbps,2600kbps
+,,PRH,29.20'47''N / 79.33'19''E,,,,,,,-109,47,-99,31,7700kbps,2600kbps
+,,Van Vilas,29.20'28''N / 79.33'30''E,,,,,,,-98,35,-88,53,7700kbps,2600kbps
+,,Hotel Harsrikhar,29.20'23''N / 79.33'29''E,,,,,,,-103,43,-93,59,7700kbps,2600kbps
+,,Pant Park,29.20'21''N / 79.33'40''E,,,,,,,-97,53,-81,40,7700kbps,2600kbps
+,,Malu Sara,29.20'11''N / 79.33'34''E,,,,,,,-98,56,-108,30,7700kbps,2600kbps
+,,SOS Road,29.20'11''N / 79.33'34''E,,,,,,,-86,44,-94,56,7700kbps,2600kbps
+,,Jal Sanstan,29.20'11''N / 79.33'34''E,,,,,,,-95,33,-80,30,7700kbps,2600kbps
+,,Nelesh Inn,29.20'22''N / 79.33'26''E,,,,,,,-93,43,-90,43,7700kbps,2600kbps
+,,Sojaun Wild Lake,29.20'23''N / 79.33'27''E,,,,,,,-85,48,-102,49,7700kbps,2600kbps
+,,Monali Inn resort,29.20'25''N / 79.33'30''E,,,,,,,-110,41,-106,52,7700kbps,2600kbps
+,,Starting Point Of Dart,29.20'22''N / 79.33'26''E,,,,,,,-81,50,-97,55,7700kbps,2600kbps
+,,Bhimshaw Mahadev Temple,29.20'22''N / 79.33'26''E,,,,,,,-96,37,-94,43,7700kbps,2600kbps
+,,Aquarium,29.20'22''N / 79.33'26''E,,,,,,,-108,46,-87,37,7700kbps,2600kbps
+,,End Point Of dart,29.20'22''N / 79.33'26''E,,,,,,,-96,55,-91,51,7700kbps,2600kbps
+,,Lake Hill,29.20'21''N / 79.33'40''E,,,,,,,-100,50,-105,36,7700kbps,2600kbps
+,,Kalika Bazar,29.20'22''N / 79.33'26''E,,,,,,,-94,38,-102,39,7700kbps,2600kbps
+,,Kethalai Devi,29.20'22''N / 79.33'26''E,,,,,,,-103,52,-94,41,7700kbps,2600kbps
+,,Mid View Place,29.28'21''N / 79.30'40''E,,,,,,,-96,58,-107,37,7700kbps,2600kbps
+,,Mount Aluen School,29.20'22''N / 79.33'26''E,,,,,,,-87,53,-98,31,7700kbps,2600kbps
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
